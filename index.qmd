@@ -2,6 +2,4 @@
 title: "mcatherine1994.github.io"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Hello, this is Da Meng (Catherine). I came to Canada in 2015, and studied computer science at University of Victoria. I worked as full stack developer for 4 years. I'm excited to start the MDS program. 
